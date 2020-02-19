@@ -97,4 +97,4 @@ _Using R = V/I, I got 650mOhm._
 
 ## Demo videos
 
-_TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
+_Simple external LED circuit [HERE](https://imgur.com/gallery/eoMPVkc)_

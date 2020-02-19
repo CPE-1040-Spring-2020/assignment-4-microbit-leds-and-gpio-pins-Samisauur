@@ -93,7 +93,7 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 
 ## Measurements
 
-_TODO: Record and describe your circuit measurements and calculations here._
+_Using R = V/I, I got 650mOhm._
 
 ## Demo videos
 

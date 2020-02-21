@@ -98,3 +98,5 @@ _Using R = V/I, I got 650mOhm._
 ## Demo videos
 
 _Simple external LED circuit [HERE](https://imgur.com/gallery/eoMPVkc)_
+_Micro:bit breakout tutorial [HERE](https://imgur.com/gallery/c06sGq2)_
+

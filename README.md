@@ -102,5 +102,6 @@ _Simple external LED circuit [HERE](https://imgur.com/gallery/eoMPVkc)_
 _Micro:bit breakout tutorial [HERE](https://imgur.com/gallery/c06sGq2)_
 
 _Screensaver extension Demo 1 [HERE].(https://imgur.com/14S6i4W)_
+
 _Screensaver extension Demo 2 [HERE](https://imgur.com/gallery/BWOAmc7)_
 
